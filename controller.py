@@ -1,10 +1,6 @@
-""" Dev Popat  Meryl Marasigan 
-    74688458   16565488
-    popatd     mpmarasi
-"""
 
 #mporting all the necessary modules for functionality 
-from hw7_view import View
+from view import View
 from connect_four_board import Board
 
 #creating board and view objects 
