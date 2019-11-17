@@ -1,5 +1,5 @@
 
-#Creating a GUI for Connect 4 boardgame
+#Creating a GUI for the boardgame
 
 #importing all modules necessary for functionality 
 
