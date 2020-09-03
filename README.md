@@ -8,6 +8,5 @@ As a stretch goal, we can add some more visual and audio details that would make
 
 ## Example Screenshot
 
-<img src='https://github.com/DevPopat/ConnectFourBoardGame/blob/master/Screen%20Shot%202019-08-23%20at%2012.31.03%20PM.png
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/DevPopat/ConnectFourBoardGame/blob/master/Screen%20Shot%202019-08-23%20at%2012.31.03%20PM.png'/>
 
